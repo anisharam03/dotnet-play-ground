@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6OG2eeetZ8=",
+  "success": true,
+  "projectFilePath": "/Users/anisharamadurai/Documents/LearningWorkspace/dotnet-play-ground/src/dynamo-db-exploration/dynamo-db-exploration.csproj",
+  "expectedPackageFiles": [
+    "/Users/anisharamadurai/.nuget/packages/awssdk.core/3.7.200.4/awssdk.core.3.7.200.4.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/awssdk.dynamodbv2/3.7.200.4/awssdk.dynamodbv2.3.7.200.4.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

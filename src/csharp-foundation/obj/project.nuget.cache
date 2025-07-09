@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOzhVHrhNEc=",
+  "success": true,
+  "projectFilePath": "/Users/anisharamadurai/Documents/LearningWorkspace/dotnet-play-ground/src/csharp-foundation/csharp-foundation.csproj",
+  "expectedPackageFiles": [
+    "/Users/anisharamadurai/.nuget/packages/microsoft.aspnetcore.jsonpatch/8.0.11/microsoft.aspnetcore.jsonpatch.8.0.11.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

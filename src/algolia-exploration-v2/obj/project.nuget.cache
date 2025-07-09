@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCGGiqSj+Ec=",
+  "success": true,
+  "projectFilePath": "/Users/anisharamadurai/Documents/LearningWorkspace/dotnet-play-ground/src/algolia-exploration-v2/algolia-exploration-v2.csproj",
+  "expectedPackageFiles": [
+    "/Users/anisharamadurai/.nuget/packages/algolia.search/7.14.0/algolia.search.7.14.0.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/awssdk.core/3.7.400.19/awssdk.core.3.7.400.19.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/awssdk.s3/3.7.402.10/awssdk.s3.3.7.402.10.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/anisharamadurai/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
